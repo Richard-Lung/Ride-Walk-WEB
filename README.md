@@ -63,4 +63,4 @@ Notes
 - “About …” HTML and image URL are stored with each saved route.
 
 License
-For course and educational use. Add your preferred license if distributing.
+For course and educational use.
