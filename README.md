@@ -1,4 +1,6 @@
 # Ride-Walk-WEB
+====================
+Richard Lung 327084224 | Tomer Harel 207207317
 
 Ride & Walk Planner
 ====================
